@@ -5,7 +5,6 @@
 QUESTÃO
 A torre de Hanói é um jogo que tem o objetivo de mover todos os discos de uma haste para outra, utilizando o menor número possível de movimento, respeitando-se as regras.
 
-
 ### As regras são:
 
 1- um disco maior não pode ser colocado sobre um disco menor;
